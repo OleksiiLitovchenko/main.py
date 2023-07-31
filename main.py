@@ -12,6 +12,7 @@ def get_course_info(courses_file_path, schedule_file_path, course_name):
             courseinfo.append(startdata)
     return courseinfo
 print(get_course_info('courses.txt', 'schedule (1).txt', "FullStack Developer"))
+set()
 
 
 
